@@ -1,3 +1,7 @@
+# DownloadMonitor-Lite (GPLv3)
+### Free, open source, minimalist network usage monitor. For the full-featured version, see [DownloadMonitor (commercial)](https://downloadmonitor.net)
+
+
 This is a free, open source version of DownloadMonitor, based on an early development version
 
 The original goal of DownloadMonitor was to create a lightweight, simple, and customisable application to quickly view your network usage. 
