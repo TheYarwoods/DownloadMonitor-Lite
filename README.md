@@ -12,4 +12,10 @@ I also believe releasing such an application will help gain trust, as well as en
 
 This code is made available under the GPLv3 license. More information can be found in copyright.txt and license.txt
 
-The commercial release of DownloadMonitor can be found at https://downloadmonitor.net
+### What does it do?
+
+The app shows your current network usage in a minimalist widget that can be dragged around the desktop
+It supports basic customisation in the form of adjusting primary and secondary colours
+
+![](Images/DefaultColours.png)
+![](Images/DarkColours.png)
